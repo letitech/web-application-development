@@ -31,18 +31,31 @@ Repositorio oficial del **Desarrollo de Aplicaciones Web**, que cubre tanto el d
 
 📦 desarrollo-web
 ├── frontend/
+
 │ ├── html-css/
+
 │ ├── responsive/
+
 │ └── js-intro/
+
 ├── backend/
+
 │ ├── flask-basico/
+
 │ ├── mysql/
+
 │ ├── crud/
+
 │ └── api-proyecto/
+
 ├── proyectos/
+
 │ ├── sitio-web-completo/
+
 │ └── app-flask-final/
+
 ├── README.md
+
 └── requirements.txt
 
 
